@@ -1,0 +1,1 @@
+Group project as part of my training. Object-Oriented approach for communication between various entities, including recipes, ingredients, diets, and users. Tech stack: JavaScript, Java and MariaDB, with a RESTful API for data exchange.
